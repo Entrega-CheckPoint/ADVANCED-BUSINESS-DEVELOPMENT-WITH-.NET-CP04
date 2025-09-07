@@ -7,9 +7,10 @@ biblioteca.
 
 ## **Integrantes**
 
-| Nome                     | RM     |
-| ------------------------ | ------ |
-| Francesco M Di Benedetto | 557313 |
+| Nome                        | RM     |
+| --------------------------- | ------ |
+| Francesco M Di Benedetto    | 557313 |
+| Luiz Felipe Campos da Silva | 555591 |
 
 ## **Link do video**
 
