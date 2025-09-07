@@ -1,0 +1,17 @@
+C:\Users\xfran\Desktop\2TDSPV\Entrega-CheckPoint\ADVANCED-BUSINESS-DEVELOPMENT-WITH-.NET-CP04\Checkpoin\obj\Debug\net8.0\PubTmp\Out\Checkpoint.exe
+C:\Users\xfran\Desktop\2TDSPV\Entrega-CheckPoint\ADVANCED-BUSINESS-DEVELOPMENT-WITH-.NET-CP04\Checkpoin\obj\Debug\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\xfran\Desktop\2TDSPV\Entrega-CheckPoint\ADVANCED-BUSINESS-DEVELOPMENT-WITH-.NET-CP04\Checkpoin\obj\Debug\net8.0\PubTmp\Out\appsettings.json
+C:\Users\xfran\Desktop\2TDSPV\Entrega-CheckPoint\ADVANCED-BUSINESS-DEVELOPMENT-WITH-.NET-CP04\Checkpoin\obj\Debug\net8.0\PubTmp\Out\Checkpoint.dll
+C:\Users\xfran\Desktop\2TDSPV\Entrega-CheckPoint\ADVANCED-BUSINESS-DEVELOPMENT-WITH-.NET-CP04\Checkpoin\obj\Debug\net8.0\PubTmp\Out\Checkpoint.deps.json
+C:\Users\xfran\Desktop\2TDSPV\Entrega-CheckPoint\ADVANCED-BUSINESS-DEVELOPMENT-WITH-.NET-CP04\Checkpoin\obj\Debug\net8.0\PubTmp\Out\Checkpoint.runtimeconfig.json
+C:\Users\xfran\Desktop\2TDSPV\Entrega-CheckPoint\ADVANCED-BUSINESS-DEVELOPMENT-WITH-.NET-CP04\Checkpoin\obj\Debug\net8.0\PubTmp\Out\Checkpoint.pdb
+C:\Users\xfran\Desktop\2TDSPV\Entrega-CheckPoint\ADVANCED-BUSINESS-DEVELOPMENT-WITH-.NET-CP04\Checkpoin\obj\Debug\net8.0\PubTmp\Out\DnsClient.dll
+C:\Users\xfran\Desktop\2TDSPV\Entrega-CheckPoint\ADVANCED-BUSINESS-DEVELOPMENT-WITH-.NET-CP04\Checkpoin\obj\Debug\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\xfran\Desktop\2TDSPV\Entrega-CheckPoint\ADVANCED-BUSINESS-DEVELOPMENT-WITH-.NET-CP04\Checkpoin\obj\Debug\net8.0\PubTmp\Out\MongoDB.Bson.dll
+C:\Users\xfran\Desktop\2TDSPV\Entrega-CheckPoint\ADVANCED-BUSINESS-DEVELOPMENT-WITH-.NET-CP04\Checkpoin\obj\Debug\net8.0\PubTmp\Out\MongoDB.Driver.dll
+C:\Users\xfran\Desktop\2TDSPV\Entrega-CheckPoint\ADVANCED-BUSINESS-DEVELOPMENT-WITH-.NET-CP04\Checkpoin\obj\Debug\net8.0\PubTmp\Out\SharpCompress.dll
+C:\Users\xfran\Desktop\2TDSPV\Entrega-CheckPoint\ADVANCED-BUSINESS-DEVELOPMENT-WITH-.NET-CP04\Checkpoin\obj\Debug\net8.0\PubTmp\Out\Snappier.dll
+C:\Users\xfran\Desktop\2TDSPV\Entrega-CheckPoint\ADVANCED-BUSINESS-DEVELOPMENT-WITH-.NET-CP04\Checkpoin\obj\Debug\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\xfran\Desktop\2TDSPV\Entrega-CheckPoint\ADVANCED-BUSINESS-DEVELOPMENT-WITH-.NET-CP04\Checkpoin\obj\Debug\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\xfran\Desktop\2TDSPV\Entrega-CheckPoint\ADVANCED-BUSINESS-DEVELOPMENT-WITH-.NET-CP04\Checkpoin\obj\Debug\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\xfran\Desktop\2TDSPV\Entrega-CheckPoint\ADVANCED-BUSINESS-DEVELOPMENT-WITH-.NET-CP04\Checkpoin\obj\Debug\net8.0\PubTmp\Out\ZstdSharp.dll

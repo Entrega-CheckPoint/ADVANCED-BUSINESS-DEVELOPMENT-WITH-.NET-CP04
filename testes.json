@@ -1,0 +1,28 @@
+{
+  "$schema": [
+    {
+      "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+      "anoPublicacao": 1954,
+      "autor": {
+        "nome": "J.R.R. Tolkien",
+        "nacionalidade": "Britânico"
+      }
+    },
+    {
+      "titulo": "Capitães da Areia",
+      "anoPublicacao": 1937,
+      "autor": {
+        "nome": "Jorge Amado",
+        "nacionalidade": "Brasileiro"
+      }
+    },
+    {
+      "titulo": "Neuromancer",
+      "anoPublicacao": 1984,
+      "autor": {
+        "nome": "William Gibson",
+        "nacionalidade": "Canadense"
+      }
+    }
+  ]
+}

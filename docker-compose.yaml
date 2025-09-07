@@ -1,0 +1,53 @@
+version: "3.9"
+
+services:
+  api:
+    build:
+      context: ./Checkpoin
+      dockerfile: Dockerfile
+    container_name: checkpoint-api
+    depends_on:
+      mongo:
+        condition: service_healthy
+    environment:
+      # sobrescreve a connection string via env
+      # (ajuste a chave para combinar com sua config)
+      ConfiguracaoMongoDb__ConnectionString: "mongodb://mongo:27017"
+      ConfiguracaoMongoDb__DatabaseName: "BibliotecaDB"
+      ConfiguracaoMongoDb__BookCollectionName: "Livros"
+      ASPNETCORE_URLS: "http://+:8080"
+      ASPNETCORE_ENVIRONMENT: "Development"
+    ports:
+      - "8080:8080"   # acesse em http://localhost:8080
+    # a rede padrão do compose já conecta os serviços entre si
+
+  mongo:
+    image: mongo:7
+    container_name: mongo
+    restart: unless-stopped
+    ports:
+      - "27017:27017"   # opcional; expose se quiser conectar via Compass do host
+    volumes:
+      - mongo-data:/data/db
+    healthcheck:
+      test: ["CMD", "mongosh", "--quiet", "--eval", "db.adminCommand({ ping: 1 }).ok"]
+      interval: 5s
+      timeout: 2s
+      retries: 10
+
+  # opcional: UI web para o Mongo
+  # mongo-express:
+  #   image: mongo-express:1
+  #   container_name: mongo-express
+  #   depends_on:
+  #     - mongo
+  #   environment:
+  #     ME_CONFIG_MONGODB_SERVER: "mongo"
+  #     ME_CONFIG_MONGODB_PORT: "27017"
+  #     ME_CONFIG_BASICAUTH_USERNAME: "admin"
+  #     ME_CONFIG_BASICAUTH_PASSWORD: "admin"
+  #   ports:
+  #     - "8081:8081"
+
+volumes:
+  mongo-data:
